@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#practice file to be ignored
+practice.ipynb
+
+
 # C extensions
 *.so
 
