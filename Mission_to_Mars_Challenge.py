@@ -157,20 +157,6 @@ for i in range(len(links)):
     #navigate back to the start page
     browser.back()
     
-    
-# for i in range(4):
-#     #create empty dictionary
-#     hemispheres = {}
-#     browser.find_by_css('a.product-item h3')[i].click()
-#     element = browser.find_link_by_text('Sample').first
-#     img_url = element['href']
-#     title = browser.find_by_css("h2.title").text
-#     hemispheres["img_url"] = img_url
-#     hemispheres["title"] = title
-#     hemisphere_image_urls.append(hemispheres)
-#     browser.back()
-#len(hemilinks)
-
 
 # In[99]:
 
